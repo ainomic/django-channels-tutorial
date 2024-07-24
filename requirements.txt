@@ -3,3 +3,4 @@ python-dotenv
 django
 channels[daphne]
 channels_redis
+selenium
